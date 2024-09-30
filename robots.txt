@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ivalsoley.github.io/sitemap.html.gz
+Sitemap: https://ivalsoley.github.io/app/sitemap.html.gz
+Sitemap: https://ivalsoley.github.io/assets/sitemap.html.gz
+Sitemap: https://ivalsoley.github.io/css/sitemap.html.gz
+Sitemap: https://ivalsoley.github.io/data/sitemap.html.gz
+Sitemap: https://ivalsoley.github.io/includes/sitemap.html.gz
+Sitemap: https://ivalsoley.github.io/item/sitemap.html.gz
+Sitemap: https://ivalsoley.github.io/src/sitemap.html.gz
